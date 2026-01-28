@@ -1,0 +1,11 @@
+langgraph
+langchain-openai
+pydantic
+python-dotenv
+duckduckgo-search
+langchain-community
+ddgs
+requests
+fastapi
+uvicorn
+python-multipart
