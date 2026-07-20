@@ -1,4 +1,4 @@
-# Nexus Swarm (AG-01)
+# Nexus Swarm
 ### Stateful Multi-Agent Orchestration & Research Engine
 
 ![Nexus Swarm Hero](./docs/assets/hero_main.png)
@@ -39,7 +39,7 @@ The project features a **Modern Premium Dashboard** built with **Next.js 14**, *
 
 ---
 
-## 🔥 Senior Signals (Technical Highlights)
+## 🔥 Technical Highlights
 
 - **State Persistence**: Uses LangGraph's checkpointer (Memory/PostgreSQL) to allow mission recovery and session-based logic.
 - **Human-in-the-Loop (HITL)**: Implements `interrupt_before` breakpoints for rigorous data validation before report generation.
